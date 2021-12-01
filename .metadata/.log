@@ -61,3 +61,253 @@ Binding(COMMAND+SHIFT+T,
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 13:12:08.900
 !MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.BelMIyzx => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 13:17:15.884
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 13:17:15.893
+!MESSAGE classpath=1 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 13:17:15.895
+!MESSAGE buffering callback sts4.classpath.BelMIyzx demo false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 13:17:15.896
+!MESSAGE executing callback sts4.classpath.BelMIyzx 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 13:17:16.688
+!MESSAGE executing callback sts4.classpath.BelMIyzx SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-12-01 13:17:16.965
+!MESSAGE Has main method computation for project 'demo'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 13:17:16.973
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 13:17:16.977
+!MESSAGE classpath=92 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 13:17:16.979
+!MESSAGE buffering callback sts4.classpath.BelMIyzx demo false 92
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 13:17:16.980
+!MESSAGE executing callback sts4.classpath.BelMIyzx 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 13:17:17.521
+!MESSAGE executing callback sts4.classpath.BelMIyzx SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 13:17:17.949
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 13:17:17.952
+!MESSAGE classpath=93 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 13:17:17.954
+!MESSAGE buffering callback sts4.classpath.BelMIyzx demo false 93
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 13:17:17.955
+!MESSAGE executing callback sts4.classpath.BelMIyzx 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 13:17:17.980
+!MESSAGE executing callback sts4.classpath.BelMIyzx SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 13:17:18.087
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 13:17:18.091
+!MESSAGE classpath=94 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 13:17:18.093
+!MESSAGE buffering callback sts4.classpath.BelMIyzx demo false 94
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 13:17:18.094
+!MESSAGE executing callback sts4.classpath.BelMIyzx 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 13:17:18.115
+!MESSAGE executing callback sts4.classpath.BelMIyzx SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 13:17:18.418
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 13:17:18.422
+!MESSAGE classpath=93 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 13:17:18.424
+!MESSAGE buffering callback sts4.classpath.BelMIyzx demo false 93
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 13:17:18.425
+!MESSAGE executing callback sts4.classpath.BelMIyzx 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 13:17:18.449
+!MESSAGE executing callback sts4.classpath.BelMIyzx SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 13:17:18.600
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 13:17:18.603
+!MESSAGE classpath=92 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 13:17:18.605
+!MESSAGE buffering callback sts4.classpath.BelMIyzx demo false 92
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 13:17:18.606
+!MESSAGE executing callback sts4.classpath.BelMIyzx 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 13:17:18.626
+!MESSAGE executing callback sts4.classpath.BelMIyzx SUCCESS [done]
+
+!ENTRY org.eclipse.jdt.core 4 0 2021-12-01 13:17:18.914
+!MESSAGE Unexpected internal error
+!STACK 1
+Java Model Exception: Java Model Status [.apt_generated [in demo] is not on its project's build path]
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:584)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:327)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:313)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildren(JavaElement.java:268)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getSourceModuleDescription(PackageFragmentRoot.java:911)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getModuleDescription(PackageFragmentRoot.java:904)
+	at org.eclipse.jdt.internal.core.search.matching.JavaSearchNameEnvironment.addModuleClassPathInfo(JavaSearchNameEnvironment.java:296)
+	at org.eclipse.jdt.internal.core.search.matching.JavaSearchNameEnvironment.mapToClassPathLocation(JavaSearchNameEnvironment.java:290)
+	at org.eclipse.jdt.internal.core.search.matching.JavaSearchNameEnvironment.computeClasspathLocations(JavaSearchNameEnvironment.java:199)
+	at org.eclipse.jdt.internal.core.search.matching.JavaSearchNameEnvironment.<init>(JavaSearchNameEnvironment.java:93)
+	at org.eclipse.jdt.internal.core.search.matching.IndexBasedJavaSearchEnvironment.create(IndexBasedJavaSearchEnvironment.java:361)
+	at org.eclipse.jdt.internal.core.search.matching.MatchLocator.initialize(MatchLocator.java:1222)
+	at org.eclipse.jdt.internal.core.search.matching.MatchLocator.locateMatches(MatchLocator.java:1260)
+	at org.eclipse.jdt.internal.core.search.matching.MatchLocator.locateMatches(MatchLocator.java:1373)
+	at org.eclipse.jdt.internal.core.search.matching.MatchLocator.locateMatches(MatchLocator.java:1515)
+	at org.eclipse.jdt.internal.core.search.JavaSearchParticipant.locateMatches(JavaSearchParticipant.java:135)
+	at org.eclipse.jdt.internal.core.search.BasicSearchEngine.findMatches(BasicSearchEngine.java:250)
+	at org.eclipse.jdt.internal.core.search.BasicSearchEngine.search(BasicSearchEngine.java:601)
+	at org.eclipse.jdt.core.search.SearchEngine.search(SearchEngine.java:670)
+	at org.eclipse.jdt.internal.debug.ui.launcher.MainMethodSearchEngine.searchMainMethods(MainMethodSearchEngine.java:97)
+	at org.springframework.ide.eclipse.boot.dash.model.BootProjectDashElement$1.compute(BootProjectDashElement.java:83)
+	at org.springframework.ide.eclipse.boot.dash.model.BootProjectDashElement$1.compute(BootProjectDashElement.java:1)
+	at org.springsource.ide.eclipse.commons.livexp.core.LiveExpression.refresh(LiveExpression.java:74)
+	at org.springsource.ide.eclipse.commons.livexp.core.AsyncLiveExpression.syncRefresh(AsyncLiveExpression.java:125)
+	at org.springsource.ide.eclipse.commons.livexp.core.AsyncLiveExpression$1.run(AsyncLiveExpression.java:95)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2021-12-01 13:17:18.916
+!MESSAGE .apt_generated [in demo] is not on its project's build path
+
+!ENTRY Activator 1 0 2021-12-01 13:17:19.720
+!MESSAGE Has main method computation for project 'demo'
+
+!ENTRY Activator 1 0 2021-12-01 13:17:21.107
+!MESSAGE Has main method computation for project 'demo'
+
+!ENTRY Activator 1 0 2021-12-01 13:17:21.447
+!MESSAGE Has main method computation for project 'demo'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 13:17:21.448
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 13:17:21.451
+!MESSAGE classpath=92 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 13:17:21.453
+!MESSAGE buffering callback sts4.classpath.BelMIyzx demo false 92
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 13:17:21.453
+!MESSAGE executing callback sts4.classpath.BelMIyzx 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 13:17:21.476
+!MESSAGE executing callback sts4.classpath.BelMIyzx SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 13:17:21.573
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 13:17:21.577
+!MESSAGE classpath=92 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 13:17:21.579
+!MESSAGE buffering callback sts4.classpath.BelMIyzx demo false 92
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 13:17:21.579
+!MESSAGE executing callback sts4.classpath.BelMIyzx 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 13:17:21.597
+!MESSAGE executing callback sts4.classpath.BelMIyzx SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 13:17:22.147
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 13:17:22.150
+!MESSAGE classpath=92 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 13:17:22.152
+!MESSAGE buffering callback sts4.classpath.BelMIyzx demo false 92
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 13:17:22.152
+!MESSAGE executing callback sts4.classpath.BelMIyzx 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 13:17:22.168
+!MESSAGE executing callback sts4.classpath.BelMIyzx SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-12-01 13:17:22.485
+!MESSAGE Has main method computation for project 'demo'
+
+!ENTRY Activator 1 0 2021-12-01 13:17:22.604
+!MESSAGE Has main method computation for project 'demo'
+
+!ENTRY Activator 1 0 2021-12-01 13:17:22.892
+!MESSAGE Has main method computation for project 'demo'
+
+!ENTRY org.springframework.ide.eclipse.beans.core 1 0 2021-12-01 13:17:23.815
+!MESSAGE Error occured processing 'com.example.demo.DemoApplication'
+!STACK 0
+org.springframework.core.annotation.AnnotationConfigurationException: Attribute 'proxyBeanMethods' in annotation [org.springframework.boot.SpringBootConfiguration] is declared as an @AliasFor nonexistent attribute 'proxyBeanMethods' in annotation [org.springframework.context.annotation.Configuration].; nested exception is java.lang.NoSuchMethodException: org.springframework.context.annotation.Configuration.proxyBeanMethods()
+	at org.springframework.core.annotation.AnnotationUtils$AliasDescriptor.<init>(AnnotationUtils.java:2128)
+	at org.springframework.core.annotation.AnnotationUtils$AliasDescriptor.from(AnnotationUtils.java:2095)
+	at org.springframework.core.annotation.AnnotationUtils.getAttributeAliasNames(AnnotationUtils.java:1751)
+	at org.springframework.core.annotation.AnnotationUtils.isSynthesizable(AnnotationUtils.java:1710)
+	at org.springframework.core.annotation.AnnotationUtils.synthesizeAnnotation(AnnotationUtils.java:1493)
+	at org.springframework.core.annotation.AnnotationUtils.synthesizeAnnotationArray(AnnotationUtils.java:1597)
+	at org.springframework.core.annotation.AnnotationUtils.getAnnotations(AnnotationUtils.java:231)
+	at org.springframework.core.type.classreading.AnnotationAttributesReadingVisitor.visitEnd(AnnotationAttributesReadingVisitor.java:76)
+	at org.springframework.asm.ClassReader.readAnnotationValues(ClassReader.java:2020)
+	at org.springframework.asm.ClassReader.accept(ClassReader.java:676)
+	at org.springframework.asm.ClassReader.accept(ClassReader.java:527)
+	at org.springframework.ide.eclipse.core.java.classreading.JdtConnectedMetadataReader.<init>(JdtConnectedMetadataReader.java:45)
+	at org.springframework.ide.eclipse.core.java.classreading.JdtMetadataReaderFactory.getMetadataReader(JdtMetadataReaderFactory.java:53)
+	at org.springframework.ide.eclipse.core.java.classreading.CachingJdtMetadataReaderFactory.getMetadataReader(CachingJdtMetadataReaderFactory.java:38)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansJavaConfig.registerBean(BeansJavaConfig.java:368)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansJavaConfig$2.call(BeansJavaConfig.java:229)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansJavaConfig$2.call(BeansJavaConfig.java:1)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+Caused by: java.lang.NoSuchMethodException: org.springframework.context.annotation.Configuration.proxyBeanMethods()
+	at java.base/java.lang.Class.getDeclaredMethod(Class.java:2613)
+	at org.springframework.core.annotation.AnnotationUtils$AliasDescriptor.<init>(AnnotationUtils.java:2121)
+	... 22 more
+
+!ENTRY Activator 1 0 2021-12-01 13:17:24.200
+!MESSAGE Has main method computation for project 'demo'
+
+!ENTRY Activator 1 0 2021-12-01 13:17:24.502
+!MESSAGE Has main method computation for project 'demo'
+
+!ENTRY Activator 1 0 2021-12-01 13:18:04.561
+!MESSAGE Has main method computation for project 'demo'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 13:18:04.745
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 13:18:04.765
+!MESSAGE classpath=92 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 13:18:04.767
+!MESSAGE buffering callback sts4.classpath.BelMIyzx demo false 92
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 13:18:04.779
+!MESSAGE executing callback sts4.classpath.BelMIyzx 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 13:18:04.889
+!MESSAGE executing callback sts4.classpath.BelMIyzx SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-12-01 13:18:08.148
+!MESSAGE Has main method computation for project 'demo'
